@@ -2,6 +2,15 @@
 
 A smaller version of [emojikitchen.dev](https://github.com/xsalazar/emoji-kitchen) data.
 
+## Credit
+
+[Jennifer Daniel](https://jenniferdanielalloneword.com) and collaborators designed the Emoji Kitchen combinations. 
+
+## Uses
+
+* https://observablehq.com/@forresto/emoji-kitchen-graph
+
+
 ## Spec
 
 Quick script to 
@@ -66,14 +75,10 @@ chmod +x ./compress-data.sh
 ./compress-data.sh
 ```
 
-Output 2026-03-30:
+Output for v1.0.0 2026-03-30:
 
 ```
 Input size:  98867964 bytes
 Output JSON: 82577255 bytes
 Output GZ:   5008789 bytes
 ```
-
-## Uses
-
-* https://observablehq.com/@forresto/emoji-kitchen-graph
